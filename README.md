@@ -3,4 +3,4 @@ Nodejs code destroyer. It just replace a semicolon(;) with greek question mark(Í
 
 # How to use
  * npm run
-The program will ask you a question. Just enter your file address. Thats all :) 
+The program will ask you a question. Just enter your file address. That's all :) 
